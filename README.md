@@ -18,7 +18,7 @@ The following will contain code for:
 - madesite_slim_inject.tcl
 - madesite_slim_wait.tcl
 - madesite_slim_extract.tcl
--facies_inject_press2.txt
+- facies_inject_press2.txt
 - facies_wait_press2.txt
 - facies_extract_press2.txt
 - inject_time.txt
