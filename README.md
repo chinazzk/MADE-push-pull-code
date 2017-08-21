@@ -24,7 +24,7 @@ The following will contain code for:
 - inject_time.txt
 - wait_time.txt
 - extract_time.txt
-5. PEST files for ADE and t-fADE model optimization. Control file, instruction file, template file
+5. PEST files for an ADE model optimization. Control file, instruction file, template file
 - pest5.pst
 - pest.ins
 - pest_ADE.tpl
